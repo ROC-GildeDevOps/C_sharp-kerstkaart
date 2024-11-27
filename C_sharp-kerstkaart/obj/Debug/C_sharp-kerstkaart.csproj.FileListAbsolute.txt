@@ -1,0 +1,12 @@
+C:\_github_desktop\C_sharp-kerstkaart\C_sharp-kerstkaart\bin\Debug\C_sharp-kerstkaart.exe.config
+C:\_github_desktop\C_sharp-kerstkaart\C_sharp-kerstkaart\bin\Debug\C_sharp-kerstkaart.exe
+C:\_github_desktop\C_sharp-kerstkaart\C_sharp-kerstkaart\bin\Debug\C_sharp-kerstkaart.pdb
+C:\_github_desktop\C_sharp-kerstkaart\C_sharp-kerstkaart\obj\Debug\C_sharp-kerstkaart.csproj.AssemblyReference.cache
+C:\_github_desktop\C_sharp-kerstkaart\C_sharp-kerstkaart\obj\Debug\C_sharp_kerstkaart.Form1.resources
+C:\_github_desktop\C_sharp-kerstkaart\C_sharp-kerstkaart\obj\Debug\C_sharp_kerstkaart.Properties.Resources.resources
+C:\_github_desktop\C_sharp-kerstkaart\C_sharp-kerstkaart\obj\Debug\C_sharp-kerstkaart.csproj.GenerateResource.cache
+C:\_github_desktop\C_sharp-kerstkaart\C_sharp-kerstkaart\obj\Debug\C_sharp-kerstkaart.csproj.CoreCompileInputs.cache
+C:\_github_desktop\C_sharp-kerstkaart\C_sharp-kerstkaart\obj\Debug\C_sharp-kerstkaart.exe
+C:\_github_desktop\C_sharp-kerstkaart\C_sharp-kerstkaart\obj\Debug\C_sharp-kerstkaart.pdb
+C:\_github_desktop\C_sharp-kerstkaart\C_sharp-kerstkaart\obj\Debug\Interop.WMPLib.dll
+C:\_github_desktop\C_sharp-kerstkaart\C_sharp-kerstkaart\obj\Debug\C_sharp-kerstkaart.csproj.ResolveComReference.cache
